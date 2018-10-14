@@ -1,4 +1,4 @@
-# LDMGDI
+# plantilla web standard
 ```
 <!DOCTYPE html>
 <html>
